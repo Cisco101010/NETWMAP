@@ -1,0 +1,6 @@
+scapy
+prettytable
+python-nmap
+numpy
+pandas
+
